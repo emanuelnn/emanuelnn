@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @emanuelnn
-- 👀 I’m interested in learn web development
-- 🌱 I’m currently learning javascript and HTML
+- 👀 I’m interested in learn web development, in a near future i wold like to work with this market.
+- 🌱 I’m currently learning javascript, HTML and CSS
 - 💞️ I’m looking to collaborate on new projects 
 
 - 👋 Oi, meu nome é Emanuel  :D
