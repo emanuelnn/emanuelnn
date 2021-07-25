@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Karla:wght@200&display=swap');
+
+body  {
+    background-color:hsl(212, 45%, 93%);
+}
+
+p {
+    font-family: 'Karla', sans-serif;
+    color:white;
+    font-size:16px;
+}
+
+span {
+    font-family: 'Karla', sans-serif;
+    font-size:16px;
+}
+
+a {
+    font-family: 'Karla', sans-serif;
+    font-size:16px;
+}
+#bot001 {
+    text-align: center;
+
+}
