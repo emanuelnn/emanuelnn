@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @emanuelnn
-- 👀 I’m interested in learn web development, in a near future i wold like to work with this market.
+- 👀 I’m interested in learn web development, in a near future I would like to work with this market.
 - 🌱 I’m currently learning javascript, HTML and CSS
 - 💞️ I’m looking to collaborate on new projects 
 
